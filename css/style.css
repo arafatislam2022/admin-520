@@ -1,0 +1,78 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.navbars{
+
+}
+.head-line{
+background: skyblue;
+}
+.img-logo{
+	    width: 96%;
+    margin-left: 23%;
+    margin-top: 5%;
+}
+a.nav-link {
+    margin: 0px 15px;
+    color: #fff;
+    font-size: 18px;
+    margin-left: 23px;
+}
+/*banner section*/
+
+.banner-section{
+background: url(../img/banner1.jpg)no-repeat;
+background-size: cover;
+}
+.banner-menu h2{
+	text-align: center;
+    margin-top: 14%;
+    color: #fff;
+    font-size: 38px;
+}
+.banner-menu h6{
+	 text-align: center;
+	 color: #fff;
+	 font-size: 20px;
+	 margin: 20px;
+}
+.banner-btn{
+	display: block;
+    margin: 116px auto;
+    width: 17%;
+    height: 13%;
+    border: none;
+    background: #d2dd32;
+    color: #fff;
+    font-size: 16px;
+}
+
+/*banner title*/
+
+.banner-title{
+
+}
+.banner-text img{
+	width: 12%;
+    display: block;
+    margin: auto;
+    padding-top: 10%;
+    padding-bottom: 5%;
+}
+.banner-text h2{
+	text-align: center;
+    font-size: 34px;
+    margin: 20px 0px;	
+}
+.banner-text p{
+	text-align: center;
+    font-size: 17px;
+    margin: 35px 0px;
+}
+.banner-text h6{
+	text-align: center;
+    font-size: 17px;
+    margin: 35px 0px;
+    margin-bottom: 10%;
+}
